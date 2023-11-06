@@ -1,3 +1,10 @@
+/*
+
+SUMBER BELAJAR:
+https://pastebin.com/krxEtWFz
+
+/*
+
 var adalahGenap = false
 
 /*
